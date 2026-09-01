@@ -1,26 +1,24 @@
 # Elmate Stationery
 
-### Your Everyday Stationery & Creative Supplies Destination
+### Your Everyday Stationery Items & Office Supplies Destination
 
-**Elmate Stationery** is an online store offering a wide range of stationery, school supplies, office essentials, educational materials, and creative products.
+**Elmate Stationery** is an online store offering a wide range of stationery items, school supplies, office supplies, educational materials, and creative products.
 
-Our goal is to make everyday stationery shopping simple, convenient, and accessible by bringing a diverse range of useful products together in one online destination.
+Our goal is to make everyday stationery items shopping simple, convenient, and accessible by bringing a diverse range of useful products together in one online destination.
 
-🌐 **Official Website:** https://www.elmatestationery.com/
+**Official Website:** https://www.elmatestationery.com
 
----
+## About Elmate Stationery
 
-## 🛍️ About Elmate Stationery
+Elmate Stationery is an online shopping destination for people looking for - [stationery items](https://www.elmatestationery.com/collections/stationery-items) and everyday supplies for **school, office, study, creativity, organization, and daily use**.
 
-Elmate Stationery is an online shopping destination for people looking for stationery and everyday supplies for **school, office, study, creativity, organization, and daily use**.
-
-Our product collection includes writing instruments, notebooks, coloring supplies, educational materials, office accessories, art and creative supplies, desk essentials, and other everyday products.
+Our product collection includes writing instruments, notebooks, coloring supplies, educational materials, office supplies, art and creative supplies, desk essentials, and other everyday products.
 
 We continuously expand our product selection to provide customers with more choices and a convenient online shopping experience.
 
----
 
-## ✏️ What We Offer
+
+## What We Offer
 
 Our current product collection includes the following categories:
 
@@ -29,6 +27,7 @@ Our current product collection includes the following categories:
 - [Offer Products](https://www.elmatestationery.com/collections/offer-products)
 - [New Arrivals](https://www.elmatestationery.com/collections/new-arrivals)
 - [Combo](https://www.elmatestationery.com/collections/combo)
+- [Crayon](https://www.elmatestationery.com/collections/crayons)
 
 ### Writing & Drawing
 
@@ -122,9 +121,9 @@ Elmate Stationery also features products and collections associated with various
 
 > Product availability and category contents may change over time.
 
----
 
-## 🎯 Our Mission
+
+## Our Mission
 
 Our mission is simple:
 
@@ -132,9 +131,9 @@ Our mission is simple:
 
 We aim to provide customers with a convenient shopping experience while offering a diverse selection of useful products for school, office, study, creativity, and everyday needs.
 
----
 
-## 🌍 Our Vision
+
+## Our Vision
 
 We want Elmate Stationery to become a trusted online destination for stationery and everyday supplies.
 
@@ -149,9 +148,9 @@ Our long-term vision is to build a broader stationery ecosystem that combines:
 - Printable resources
 - Customer-focused experiences
 
----
 
-## 👥 Who We Serve
+
+## Who We Serve
 
 Elmate Stationery is designed for a wide range of customers, including:
 
@@ -168,9 +167,9 @@ Elmate Stationery is designed for a wide range of customers, including:
 - Stationery lovers
 - Everyday shoppers
 
----
 
-## 🛒 Online Shopping Experience
+
+##  Online Shopping Experience
 
 Through our online store, customers can:
 
@@ -186,9 +185,8 @@ Through our online store, customers can:
 
 We aim to keep the shopping experience simple, clear, and convenient across desktop and mobile devices.
 
----
 
-## 📚 Stationery Resources
+## Stationery Resources
 
 Elmate Stationery also aims to provide useful information related to stationery and everyday supplies.
 
@@ -207,9 +205,9 @@ Our resource topics may include:
 
 The purpose is to help customers better understand stationery products and make informed choices.
 
----
 
-## 🚀 What We're Building
+
+## What We're Building
 
 Elmate Stationery is continuously growing as an online stationery brand.
 
@@ -224,11 +222,11 @@ Our focus includes:
 - Creating helpful printable resources
 - Improving customer experience
 
----
 
-## 💡 Our Approach
 
-We believe a stationery store should be more than a product catalog.
+## Our Approach
+
+We believe a stationery items store should be more than a product catalog.
 
 We focus on:
 
@@ -252,9 +250,9 @@ Helping customers understand products and choose what they need.
 
 Continuously improving the way customers discover, explore, and shop for stationery.
 
----
 
-## 🌱 Growing the Elmate Ecosystem
+
+## Growing the Elmate Ecosystem
 
 Elmate Stationery is developing an ecosystem around stationery, education, creativity, and everyday productivity.
 
@@ -276,19 +274,18 @@ Printable Resources
 
 Our aim is to make stationery more useful, accessible, and convenient for everyone.
 
----
 
-## 🔗 Official Website
+## Official Website
 
 Visit the official Elmate Stationery online store:
 
-**https://www.elmatestationery.com/**
+**https://www.elmatestationery.com**
 
 Explore stationery, school supplies, office essentials, educational materials, creative products, and more.
 
 ---
 
-## 📌 About This GitHub Profile
+## About This GitHub Profile
 
 This GitHub profile represents the digital side of the **Elmate Stationery** ecosystem.
 
@@ -305,7 +302,7 @@ It may include:
 
 The purpose is to document and share useful digital projects while continuing to build the Elmate Stationery ecosystem.
 
----
+
 
 ## 🏷️ Topics
 
@@ -329,10 +326,10 @@ ecommerce
 online-store
 ```
 
----
+
 
 ## Elmate Stationery
 
-### Discover. Choose. Shop.
+### You Know The Difference.
 
-🌐 **https://www.elmatestationery.com/**
+**https://www.elmatestationery.com**
